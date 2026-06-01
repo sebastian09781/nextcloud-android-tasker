@@ -12,6 +12,9 @@ Proyecto para controlar un enchufe inteligente Tuya automáticamente según el n
 - ✅ Widgets para control manual desde la pantalla de inicio
 - ✅ Automatización vía Tasker
 - ✅ Sin dependencia de la nube, sin Home Assistant
+- ✅ Compatible con servidores Nextcloud en Termux
+
+👉 Proyecto complementario: **[Nextcloud en Termux](https://github.com/sebastian09781/nextcloud-termux)** — servidor Nextcloud 24/7 en Android con Apache, MariaDB, Redis y Cloudflare.
 
 ## Índice
 
