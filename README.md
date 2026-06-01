@@ -16,6 +16,9 @@ Proyecto para controlar un enchufe inteligente Tuya automáticamente según el n
 
 👉 Proyecto complementario: **[Nextcloud en Termux](https://github.com/sebastian09781/nextcloud-termux)** — servidor Nextcloud 24/7 en Android con Apache, MariaDB, Redis y Cloudflare.
 
+> ⚠️ Este repositorio se llamaba antes `nextcloud-android-tasker`. Si tienes un clone local, actualiza tu remote:
+> `git remote set-url origin https://github.com/sebastian09781/battery-smart-charger.git`
+
 ## Índice
 
 1. [Instalación de Termux](#1-instalación-de-termux)
